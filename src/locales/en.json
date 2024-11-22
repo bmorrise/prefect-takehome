@@ -1,0 +1,7 @@
+{ 
+  "OK": "OK",
+  "Cancel": "Cancel",
+  "Delete": "Delete",
+  "ConfirmDeleteModal.title": "Delete Deployment", 
+  "ConfirmDeleteModal.body": "Are you sure you want to delete {{value}}?"
+}
